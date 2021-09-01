@@ -1,0 +1,46 @@
+*{
+    font-family: 'Jost', sans-serif;
+    font-weight: bold;
+    font-size: 30px;
+    background-color: #101820FF;
+}
+
+.parent{
+    background-color: #101820FF;
+    position: relative;
+}
+
+.card{
+    width: 18rem;
+    margin: auto;
+    text-align: center;
+    margin-top: 10%;
+}
+
+.card-body{
+    background-color: #FEE715FF;
+}
+
+.inner-body, h2, i, h1, h6{
+    background-color: #FEE715FF;
+}
+
+input{
+    background: white;
+    border: none;
+    color: gray;
+}
+
+h1{
+    font-weight: bolder;
+}
+
+footer{
+    background: black;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    text-align: center;
+    color: whitesmoke;
+}
